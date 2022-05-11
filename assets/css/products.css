@@ -1,0 +1,85 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+    overflow-x: hidden;
+}
+/* button retun espace admin */
+.return_acceuil {
+    margin-top: 40px;
+    margin-left: 600px;
+}
+.return_acceuil i {
+    font-size: 25px;
+    color: #A1BFBF;
+    margin-left: 500px;
+}
+
+.article_global {
+    width: 70%;
+    height: auto;
+}
+.article_unitaire {
+    margin-top: 20px;
+    width: 25%;
+    height: auto;
+    float: left;
+}
+/* taille img article */
+.pr_img {
+    width: 227px;
+    height: 330px;
+}
+
+/* button delete */
+.button_delete {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: #e5bcb6;
+    border: 1px solid #c39a93;
+    border-radius: 4px;
+}
+.img_trash {
+    height: 20px;
+    width: 20px;
+    border: none;
+}
+/* button update */
+.button_update {
+    margin-left: 180px;
+    margin-top: -40px;
+    background-color: #A1BFBF;
+    border: 1px solid rgb(58, 57, 57);
+    border-radius: 4px;
+    border: 1px solid #A1BFBF;
+}
+.img_udpdate_shop {
+    height: 18px;
+    color: red;
+    width: 18px;
+}
+/* prix1  */
+.article_prix1 {
+    text-decoration: line-through;
+    font-size: 12px;
+    color: #474747;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5px;
+}
+.article_prix2 {
+    font-size: 12px;
+    margin-top: -20px;
+    color: #ff7499;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5px;
+}
+/* description produit */
+.description_produit {
+    font-size: 13px;
+    color: #666464;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 2px;
+    margin-left: 5px;
+}
